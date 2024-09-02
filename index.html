@@ -13,197 +13,153 @@
             padding: 0;
         }
         .container {
-            max-width: 1200px;
+            max-width: 800px;
             margin: 0 auto;
-            padding: 20px 4em 40px 4em;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
+            padding: 20px;
         }
         .hero-image {
             width: 100%;
-            height: 400px;
-            background-image: url('/api/placeholder/1200/400');
+            height: 300px;
+            background-image: url('peterkaminski_641f1afe8749_3.jpg');
             background-size: cover;
             background-position: center;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
-            text-align: center;
         }
         .hero-text {
-            background-color: rgba(0, 0, 0, 0.5);
-            padding: 20px;
-        }
-        .cta-box {
-            background-color: #3498db;
-            color: white;
-            padding: 20px;
-            margin: 20px 0;
             text-align: center;
+            color: white;
+            text-shadow: 
+                2px 2px 4px rgba(0,0,0,0.8),
+                0 0 20px rgba(0,0,0,0.6);
+        }
+        .hero-text h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        .hero-text p {
+            font-size: 1.2em;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .box {
             border-radius: 5px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .membership-tier {
-            background-color: #e9f7ef;
-            border: 1px solid #a3e4d7;
-            padding: 15px;
+            padding: 20px;
             margin-bottom: 20px;
-            border-radius: 5px;
         }
-        .google-form-container {
-            width: 100%;
-            height: 800px;
-            border: none;
+        .vision-box {
+            background-color: #e6f3ff;
+            border: 1px solid #b3d9ff;
         }
-        @media (max-width: 768px) {
-            .hero-image {
-                height: 300px;
-            }
-            .container {
-                padding: 10px;
-            }
+        .offers-box {
+            background-color: #e6ffe6;
+            border: 1px solid #b3ffb3;
+        }
+        .roadmap-box {
+            background-color: #fff2e6;
+            border: 1px solid #ffd9b3;
+        }
+        .membership-box {
+            background-color: #f2e6ff;
+            border: 1px solid #d9b3ff;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div role="main">
-	  <div>
+    <div class="hero-image">
+        <div class="hero-text">
             <h1>Welcome to the AI Coaching Forum (AICF)</h1>
-            <h2>Coming Soon</h2>
-	  </div>
-
-
-            <p style="font-size: larger;">Are you curious about AI but don't know where to start? Already working with AI and want to level up? Or are you an AI expert looking to share your knowledge? AICF is the community for you!</p>
-
-            <div class="cta-box">
-                <h2>🚀 Join the Waitlist!</h2>
-                <p>Be the first to know when AICF launches and get early access to our community.</p>
-                <div class="google-form-container">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6tium9cWhGukXCs2feZHrKHXzxXgMitJ-caJzECOw220yQg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                </div>
-            </div>
-
-            <div class="section">
-                <h2>Our Vision</h2>
-                <p>We're creating a welcoming, supportive community where everyone can learn, grow, and innovate together - regardless of their current AI expertise. From curious beginners to seasoned professionals, AICF is a dynamic space for anyone interested in AI.</p>
-            </div>
-
-            <div class="section">
-                <h2>What AICF Offers</h2>
-                <ul>
-                    <li>A welcoming community for all levels of AI expertise</li>
-                    <li>Peer mentoring and knowledge sharing</li>
-                    <li>Expert-led seminars and workshops, including beginner-friendly sessions</li>
-                    <li>Exclusive resources and tools for members</li>
-                    <li>A supportive network to explore AI and tackle challenges</li>
-                    <li>Opportunities to grow your AI skills at your own pace</li>
-                </ul>
-            </div>
-
-            <div class="section">
-                <h2>Our Roadmap</h2>
-                <h3>September 2024: Community Building & Prototyping</h3>
-                <ul>
-                    <li>Choose your path:
-                        <ul>
-                            <li>Join our waitlist for early access, OR</li>
-                            <li>Become a founding member and help build AICF</li>
-                        </ul>
-                    </li>
-                    <li>Prototype and participate in workshops and seminars</li>
-                    <li>Engage with early AI learning content and community features</li>
-                </ul>
-                <h3>Early 2025: Soft Launch</h3>
-                <ul>
-                    <li>Phased invitation of waitlist members</li>
-                    <li>Expanded schedule of workshops and seminars</li>
-                    <li>Fine-tuning our platform based on early community experiences</li>
-                </ul>
-                <h3>Spring 2025: Grand Opening</h3>
-                <ul>
-                    <li>Doors open to all AI enthusiasts</li>
-                    <li>Full slate of expert-led seminars and peer mentoring sessions</li>
-                    <li>Celebration of our growing community's first milestones</li>
-                </ul>
-            </div>
-
-            <div class="section">
-                <h2>Join the Team</h2>
-                <p>Help build AICF as a Learner, Practitioner, or Coach. Attend a 60-minute Q&A session with Peter Kaminski on August 27 or August 29 to find out more.</p>
-		  <p>Free Zoom registration:</p>
-                <ul>
-                    <li><a target="_blank" href="https://us02web.zoom.us/meeting/register/tZEqcOihrjosHtIbOCOCKcrEJbz_T3tGic_N">Tuesday, August 27 at 7am PT / 10am ET / 14:00 UTC</a></li>
-                    <li><a target="_blank" href="https://us02web.zoom.us/meeting/register/tZUlfuCtrz4tH9HV3AzzdiHOtm5eJFRzrSSu">Tuesday, August 27 at 12pm PT / 3pm ET / 19:00 UTC</a></li>
-                    <li><a target="_blank" href="https://us02web.zoom.us/meeting/register/tZUud-CppjMtE9z7yYuSmE8qeyaarS9gSGCy">Tuesday, August 27 at 5pm PT / 8pm ET / 00:00 UTC (Aug 28)</a></li>
-                    <li><a target="_blank" href="https://us02web.zoom.us/meeting/register/tZckfu6gqz4tG9X9Qzp5xKt6uZ2fUxfwsiAe">Thursday,  August 29 at 10am PT / 1pm ET / 17:00 UTC</a></li>
-                    <li><a target="_blank" href="https://us02web.zoom.us/meeting/register/tZIufuCqrD8iGdMXAcTsVfAnBuaCcubrJ48K">Thursday, August 29 at 3pm PT / 6pm ET / 22:00 UTC</a></li>
-                </ul>
-                <p>If none of these times work for you, contact Pete at <a href="mailto:kaminski@istori.com">kaminski@istori.com</a> and we'll work out something else.</p>
-            </div>
-
-            <div class="section">
-                <h2>Membership Tiers</h2>
-                <div class="membership-tier">
-                    <h3>🌱 Learners</h3>
-                    <ul>
-                        <li>Access beginner-friendly resources and introductory seminars</li>
-                        <li>Engage in a supportive environment to ask questions and gain confidence</li>
-                        <li>Connect with others at similar stages in their AI journey</li>
-                        <li>Gradually build knowledge to apply AI concepts in personal or professional life</li>
-                    </ul>
-                </div>
-                <div class="membership-tier">
-                    <h3>🏢 Practitioners</h3>
-                    <ul>
-                        <li>Access community learning materials and seminars</li>
-                        <li>Participate in discussions and problem-solving sessions</li>
-                        <li>Apply insights directly to their work</li>
-                        <li>Network with peers and experienced professionals in the AI field</li>
-                    </ul>
-                </div>
-                <div class="membership-tier">
-                    <h3>🏅 Coaches</h3>
-                    <ul>
-                        <li>Dedicate significant time to the community</li>
-                        <li>Create learning materials and run seminars</li>
-                        <li>Help shape the future direction of AICF</li>
-                        <li>Gain recognition as thought leaders in AI</li>
-                        <li>Opportunity to offer paid courses and seminars through the platform</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="section">
-                <h2>Membership Fees (subject to change)</h2>
-                <ul>
-                    <li>Learners & Practitioners (Personal use): $5/month</li>
-                    <li>Practitioners (Business use): $15/month</li>
-                    <li>Coaches: $10/month</li>
-                </ul>
-                <p>Membership includes access to all Tier 1 community content. Additional content and seminars available at discounted rates for members.</p>
-                <p>Coaches offering paid courses and seminars can monetize their expertise, with AICF retaining 15% of the revenue to support platform sustainability.</p>
-
-            </div>
-
-            <div class="cta-box">
-              <h2>🌟 Help Shape Our Community</h2>
-	      <p>OPTIONAL: Share your ideas and preferences to help us make AICF as valuable as possible.</p>
-                <div class="google-form-container">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSejRQ0HeB1KNRHhIiqZMZ4Q14oXG-u1lUp0Ypu0wQzsThhDeQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                </div>
-            </div>
-
-            <div class="section">
-                <h2>Contact Information</h2>
-                <p><strong>Peter Kaminski</strong><br>Founder, AI Coaching Forum</p>
-                <p>email: <a href="mailto:kaminski@istori.com">kaminski@istori.com</a></p>
-            </div>
+            <p>Learn, grow, and innovate with AI - from beginners to experts</p>
         </div>
     </div>
+    
+    <div class="container">
+        <p>Are you curious about AI but don't know where to start? Already working with AI and want to level up? Or are you an AI expert looking to share your knowledge? AICF is the community for you!</p>
+
+        <p>Members may sign in at <a href="https://hub.aicoaching.forum/">AI Coaching Forum Hub</a>.</p>
+
+        <div class="box vision-box">
+            <h2>Our Vision</h2>
+            <p>We're creating a welcoming, supportive community where everyone can learn, grow, and innovate together - regardless of their current AI expertise. From curious beginners to seasoned professionals, AICF is a dynamic space for anyone interested in AI.</p>
+        </div>
+
+        <div class="box offers-box">
+        <h2>What AICF Offers</h2>
+        <ul>
+            <li>A welcoming community for all levels of AI expertise</li>
+            <li>Peer mentoring and knowledge sharing</li>
+            <li>Expert-led seminars and workshops, including beginner-friendly sessions</li>
+            <li>Exclusive resources and tools for members</li>
+            <li>A supportive network to explore AI and tackle challenges</li>
+            <li>Opportunities to grow your AI skills at your own pace</li>
+        </ul>
+    </div>
+
+    <div class="box roadmap-box">
+        <h2>Our Roadmap</h2>
+        <h3>September 2024: Community Building & Prototyping</h3>
+        <ul>
+            <li>Choose your path:
+                <ul>
+                    <li>Send an email to <a href="mailto:kaminski@istori.com">Pete</a> and ask to be put on our waitlist for early access, or...</li>
+                    <li>Apply to be a founding member and help build AICF: send an email to <a href="mailto:kaminski@istori.com">Pete</a></li>
+                </ul>
+            </li>
+            <li>Prototype and participate in workshops and seminars</li>
+            <li>Engage with early AI learning content and community features</li>
+        </ul>
+        <h3>Early 2025: Soft Launch</h3>
+        <ul>
+            <li>Phased invitation of waitlist members</li>
+            <li>Expanded schedule of workshops and seminars</li>
+            <li>Fine-tuning our platform based on early community experiences</li>
+        </ul>
+        <h3>Spring 2025: Grand Opening</h3>
+        <ul>
+            <li>Doors open to all AI enthusiasts</li>
+            <li>Full slate of expert-led seminars and peer mentoring sessions</li>
+            <li>Celebration of our growing community's first milestones</li>
+        </ul>
+    </div>
+
+    <div class="box membership-box">
+        <h2>Membership Tiers</h2>
+        <h3>🤝 Members (🌱Learners and 🏢 Practitioners)</h3>
+        <ul>
+            <li>Access beginner-friendly resources and introductory seminars</li>
+            <li>Participate in discussions and problem-solving sessions</li>
+            <li>Apply insights directly to their work</li>
+            <li>Engage in a supportive environment to ask questions and gain confidence</li>
+            <li>Connect with others at similar stages in their AI journey</li>
+            <li>Gradually build knowledge to apply AI concepts in personal or professional life</li>
+            <li>Access community learning materials and seminars</li>
+            <li>Network with peers and experienced professionals in the AI field</li>
+        </ul>
+        <h3>🏅 Coaches</h3>
+        <ul>
+            <li>Dedicate significant time to the community</li>
+            <li>Create learning materials and run seminars</li>
+            <li>Help shape the future direction of AICF</li>
+            <li>Gain recognition as thought leaders in AI</li>
+            <li>Opportunity to offer paid courses and seminars through the platform</li>
+        </ul>
+    </div>
+
+    <h2>Membership Fees (subject to change)</h2>
+    <ul>
+        <li>Membership (Personal use): <strong>$5/month</strong></li>
+        <li>Membership (Business use): <strong>$15/month</strong></li>
+        <li>Coaches: <strong>$10/month</strong></li>
+    </ul>
+    <p>Membership includes access to all Tier 1 community content. Additional content and seminars available at discounted rates for members.</p>
+    <p>Coaches offering paid courses and seminars can monetize their expertise, with AICF retaining 15% of the revenue to support platform sustainability.</p>
+
+    <h2>Contact Information</h2>
+    <p>
+        Peter Kaminski<br>
+        Founder, AI Coaching Forum<br>
+        email: <a href="mailto:kaminski@istori.com">kaminski@istori.com</a>
+    </p>
 </body>
 </html>
