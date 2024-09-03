@@ -66,7 +66,9 @@ We're creating a welcoming, supportive community where everyone can learn, grow,
 - Membership (Business use): **$15/month**
 - Coaches: **$10/month**
 
-Membership includes access to all Tier 1 community content. Additional content and seminars available at discounted rates for members.
+Financial note: We don't want membership fees to be a true barrier to your participation. If you need accommodation, please email our membership director, [Peter Kaminski](mailto:kaminski@istori.com).
+
+Membership includes access to all Tier 1 community content. Premium content and seminars require additional payment.
 
 Coaches offering paid courses and seminars can monetize their expertise, with AICF retaining 15% of the revenue to support platform sustainability.
 
