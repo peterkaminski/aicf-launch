@@ -1,8 +1,18 @@
 # Welcome to the AI Coaching Forum (AICF)
 
+Learn, grow, and innovate with AI - from beginners to experts
+
 Are you curious about AI but don't know where to start? Already working with AI and want to level up? Or are you an AI expert looking to share your knowledge? AICF is the community for you!
 
-Members may sign in at [AI Coaching Forum Hub](https://hub.aicoaching.forum/).
+## AI Coaching Forum Open House Week
+
+In preparation for next month's AICF soft launch, we'd like to invite you to sample one or more of our coaching sessions for free! Register by clicking on the Zoom links below.
+
+- Monday, 12/16 at 4pm EST: Writing Practicum with Jax NiCarthaigh (zoom tbd)
+- Monday, 12/16 at 5pm EST: Solution Palooza with Erik Sanner, [zoom](https://us06web.zoom.us/meeting/register/tZArceCpqj4pHNR6jOcZeaqopORzCGiarF9T)
+- Tuesday, 12/17 at 11am EST: AI Tech with Peter Kaminski, [zoom](https://us02web.zoom.us/meeting/register/tZMsd-yuqDkiGNQ9UBdQwpE3eK3rIQ3xhh59)
+- Thursday, 12/19 at 2pm EST: AI Fun with Claire Jacobs, Ph.D., (zoom tbd)
+- Thursday, 12/19 at 3pm EST: Solution Palooza with Erik Sanner, [zoom](https://us06web.zoom.us/meeting/register/tZAlcuyqrTItGN2S1nInl1RXCdtHcbQluUkm)
 
 ## Our Vision
 
@@ -19,13 +29,10 @@ We're creating a welcoming, supportive community where everyone can learn, grow,
 
 ## Our Roadmap
 
-### September 2024: Community Building & Prototyping
+### Winter 2024: Community Building & Prototyping
 
-- Choose your path:
-  - Send an email to [Pete](mailto:kaminski@istori.com) and ask to be put on our waitlist for early access, or...
-  - Apply to be a founding member and help build AICF: send an email to [Pete](mailto:kaminski@istori.com) 
-- Prototype and participate in workshops and seminars
-- Engage with early AI learning content and community features
+- Five to ten founding coaches prototype and participate in workshops and seminars
+- Define and implement platform for content and community features
 
 ### Early 2025: Soft Launch
 
@@ -66,7 +73,7 @@ We're creating a welcoming, supportive community where everyone can learn, grow,
 - Membership (Business use): **$15/month**
 - Coaches: **$10/month**
 
-Financial note: We don't want membership fees to be a true barrier to your participation. If you need accommodation, please email our membership director, [Peter Kaminski](mailto:kaminski@istori.com).
+Financial note: We don't want membership fees to be a true barrier to your participation. If you need accommodation, please email our membership steward, [Peter Kaminski](mailto:kaminski@istori.com).
 
 Membership includes access to all Tier 1 community content. Premium content and seminars require additional payment.
 
@@ -75,6 +82,5 @@ Coaches offering paid courses and seminars can monetize their expertise, with AI
 ## Contact Information
 
 Peter Kaminski
-Founder, AI Coaching Forum
-email: kaminski@istori.com
-
+Steward, AI Coaching Forum
+email: [kaminski@istori.com](mailto:kaminski@istori.com)
