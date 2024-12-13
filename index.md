@@ -11,7 +11,7 @@ In preparation for next month's AICF soft launch, we'd like to invite you to sam
 - Monday, 12/16 at 4pm EST: Writing Practicum with Jax NiCarthaigh (zoom tbd)
 - Monday, 12/16 at 5pm EST: Solution Palooza with Erik Sanner, [zoom](https://us06web.zoom.us/meeting/register/tZArceCpqj4pHNR6jOcZeaqopORzCGiarF9T)
 - Tuesday, 12/17 at 11am EST: AI Tech with Peter Kaminski, [zoom](https://us02web.zoom.us/meeting/register/tZMsd-yuqDkiGNQ9UBdQwpE3eK3rIQ3xhh59)
-- Thursday, 12/19 at 2pm EST: AI Fun with Claire Jacobs, Ph.D., (zoom tbd)
+- Thursday, 12/19 at 2pm EST: AI Fun with Claire Jacobs, Ph.D. (fun with images), (zoom tbd)
 - Thursday, 12/19 at 3pm EST: Solution Palooza with Erik Sanner, [zoom](https://us06web.zoom.us/meeting/register/tZAlcuyqrTItGN2S1nInl1RXCdtHcbQluUkm)
 
 ## Our Vision
